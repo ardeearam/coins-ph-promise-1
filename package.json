@@ -4,7 +4,6 @@
   "description": "Coins.ph API with Promises for Node.js",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d lib"
   },
   "repository": {
